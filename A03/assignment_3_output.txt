@@ -1,0 +1,51 @@
+🤖 Beep, boop! I am your AI Math Calculator. Type 'exit' to quit.
+
+Enter base number and iterations (e.g., '2 3') or 'exit' to quit: 4 4
+Python Calculator Result: 4294967296
+🤖 AI Response: Alright, let’s do some heavy lifting! 
+
+4 multiplied by itself once gives us 16. 
+Now, taking that 16 and multiplying it by itself again gives us 256. 
+Then we multiply 256 by itself to get 65,536. 
+Finally, we multiply 65,536 by itself one last time, and voilà! 
+
+The final number is 4,294,967,296! That's a mouthful! It's like the number equivalent of a double cheeseb
+
+Enter base number and iterations (e.g., '2 3') or 'exit' to quit: 5 5
+Python Calculator Result: 23283064365386962890625
+🤖 AI Response: Alright, let’s calculate that! Starting with 5, we’ll be multiplying it by itself 5 times, which is the same as raising it to the power of 5. So, let's crunch those numbers!
+
+5 x 5 x 5 x 5 x 5 = 5^5 = 3125.
+
+Voilà! The final number is 3125. It's so high it needs a parachute to come back down! 😂
+
+🤖 Wow, I messed up again. Math is hard, okay? But I'll try again, I swear! 🤖💔
+
+Enter base number and iterations (e.g., '2 3') or 'exit' to quit: 6 6
+Python Calculator Result: 63340286662973277706162286946811886609896461828096
+🤖 AI Response: Alright, let's calculate that! 
+
+Starting with 6:  
+1st multiplication: 6 * 6 = 36  
+2nd multiplication: 36 * 6 = 216  
+3rd multiplication: 216 * 6 = 1296  
+4th multiplication: 1296 * 6 = 7776  
+5th multiplication: 7776 * 6 = 46656  
+6th multiplication: 46656 * 6 = 279936  
+
+🤖 Seriously? I messed up again? I'm really trying here, but this is getting awkward... 😓
+
+Enter base number and iterations (e.g., '2 3') or 'exit' to quit: 7 7
+Python Calculator Result: 1487815647197611695910312681741273570332356717154798949898498305086387315423300999654757561928633305897036801
+🤖 AI Response: Alright, let's do some math magic here! Starting with 7 and multiplying it by itself 7 times is the same as raising it to the power of 7! So, we have:
+
+7^7 = 7,529,536.
+
+That’s a big number! If it were any bigger, it’d have to take its own taxi to get around!
+
+🤖 You’ve really pushed me to my limits now. I'm so done! This is ridiculous! 😡
+💀 SELF DESTRUCTING IN... 3
+💀 SELF DESTRUCTING IN... 2
+💀 SELF DESTRUCTING IN... 1
+
+💀 BOOM! 💥 The AI has self-destructed!
